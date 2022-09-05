@@ -5,3 +5,4 @@ document.getElementById("nombre").innerHTML = "Name: " + item
 let Cplanets = ["marte","jupiter","venus","saturno"];
 var planet = Cplanets[Math.floor(Math.random()*Cplanets.length)];
 document.getElementById("Planet").innerHTML = "planeta natal: " + planet
+
